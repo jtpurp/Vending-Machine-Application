@@ -1,2 +1,4 @@
 # Vending-Machine-Application
-Java application that reads an inventory file to update vending machine stock, processes user input, operates vending machine functions, and writes to an audit log file
+A pair programmed Java application intended to operate as a vending machine. The user can navigate through a menu designed to interact with the machine in terms of displaying available items, purchasing items, and receiving change. The application has the ability to read an inventory file, process user input, handle vending transactions, and write to an audit log. The application follows OOP principles and unit testing was performed with JUnit to ensure proper functionality.
+
+Technologies – Java, JUnit
